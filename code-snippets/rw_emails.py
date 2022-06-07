@@ -35,3 +35,5 @@ for i, message in enumerate(messages):
         ()
 
 output_file.close()
+
+# Source: https://stackoverflow.com/questions/55654922/use-python-to-connect-to-outlook-and-read-emails-and-attachments-then-write-them
