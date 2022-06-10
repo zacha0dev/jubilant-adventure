@@ -29,3 +29,5 @@ inbox_two = account_two.Folders['Inbox']  # Make a reference to the inbox of acc
 
 print(inbox_one.Items.Count)  # Returns the count of items of inbox of account 1
 print(inbox_two.Items.Count)  # Returns the count of items of inbox of account 2
+
+
